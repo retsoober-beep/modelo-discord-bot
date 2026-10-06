@@ -1,0 +1,2 @@
+# modelo-discord-bot
+Modelo exemplo de bot no discord, feito em javascript.
