@@ -1,6 +1,6 @@
 # 🤖 Discord Bot Template
 
-Template de bot para Discord desenvolvido com **discord.js v14**, comandos slash, estrutura modular e respostas em embeds.
+Template de bot mais basico para Discord desenvolvido com **discord.js v14**, comandos slash, estrutura modular e respostas em embeds.
 
 ---
 
@@ -87,8 +87,3 @@ Para adicionar novos recursos ao bot:
 1. Crie o arquivo correspondente em `src/commands/`, `src/events/` ou `src/interactions/buttons/`.
 2. O sistema fará o carregamento automático das novas rotas sem a necessidade de configurações manuais.
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**.
