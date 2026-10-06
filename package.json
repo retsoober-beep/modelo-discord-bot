@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Template de bot para Discord com slash commands, modularizado e com respostas em embed.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.4.5"
+  }
+}
